@@ -10,3 +10,5 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 Esta es mi novena respuesta actualizada
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Otra respuestas guardada
